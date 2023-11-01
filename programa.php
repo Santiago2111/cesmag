@@ -3,12 +3,13 @@ include 'index.php';
 include 'conexion.php';
 ?>
 
-<h1> Listado de facultades </h1>
+<h1> Listado de programas </h1>
 <table class="table">
   <thead>
     <tr>
       <th scope="col">Codigo</th>
       <th scope="col">Nombre</th>
+      <th scope="col">Codigo Facultad</th>
       <th scope="col">Opciones</th>
     </tr>
   </thead>
