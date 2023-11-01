@@ -23,7 +23,7 @@ include 'conexion.php';
                 echo "<tr>";
                 echo "<td>".$row["codigo_prg"]."</td>";
                 echo "<td>".$row["nombre_prg"]."</td>";
-                echo "<td>".$row["facultad"]."</ts>";
+                echo "<td>".$row["facultad"]."</td>";
                 echo "<td>
                     <a class='btn btn-success'>Editar</a>
                     <a class='btn btn-danger'>Eliminar</a>
